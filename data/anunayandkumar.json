@@ -8,6 +8,11 @@
       "icon": "FaLinkedin"
     },
     {
+      "name": "Leetcode: ",
+      "url": "https://leetcode.com/anunayandkumar/",
+      "icon": "SiLeetcode"
+    },
+    {
       "name": "Github: ",
       "url": "https://github.com/anunayandkumar",
       "icon": "FaGithub"
